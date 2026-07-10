@@ -92,6 +92,26 @@ Python • TensorFlow • Scikit-Learn
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AnuragYadav9219)
 
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragYadav9219&layout=compact)
+
+---
+
+## Tech Stacks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
 ---
 
 ## 📫 Connect with Me
