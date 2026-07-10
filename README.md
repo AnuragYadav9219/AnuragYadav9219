@@ -1,21 +1,31 @@
-# Hi 👋, I'm Anurag Yadav
+Hi there 👋, I'm Anurag Yadav
 
-### Full Stack Java Developer | Spring Boot • React • AI Enthusiast
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot • React • AI Enthusiast</h3>
 
-I'm a Computer Science student passionate about building scalable web applications and solving real-world problems through software.
+<p align="center"> Building scalable SaaS applications with Java, Spring Boot, React, and modern web technologies.<br> Passionate about backend engineering, clean architecture, and AI-powered solutions. </p>
 
-Currently building **Invoxa**, a multi-tenant invoice management SaaS platform using Spring Boot, React, MySQL, and modern software architecture.
+🚀 About Me
+💻 Full Stack Java Developer
+🎓 B.Tech Computer Science Student
+🌱 Currently learning System Design, Microservices, Cloud & AI
+🚀 Building Invoxa – Multi-Tenant Invoice Management SaaS
+🤖 Exploring Agentic AI & Intelligent Automation
+⚡ Passionate about solving real-world problems through software
+📊 GitHub Statistics
 
----
+<p align="center">
 
-## 🚀 About Me
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-* 💻 Full Stack Java Developer
-* 🌱 Currently learning AI Engineering, System Design, and Cloud
-* 🏗️ Building scalable SaaS applications
-* 🤖 Interested in Agentic AI & Intelligent Automation
-* 📚 Always learning new technologies
-* ⚡ I enjoy solving challenging programming problems
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -111,6 +121,16 @@ Python • TensorFlow • Scikit-Learn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+---
+
+## Best Repositories
+
+1.Invoxa
+2.Portfolio Website
+3. Spring Boot REST API Project
 
 ---
 
